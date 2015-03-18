@@ -29,6 +29,8 @@ The tutorial is contained in an IPython Notebook, an interactive interface for r
     
 2. **Using the Anaconda launcher**: Anaconda may have created an icon labelled "Launcher" on your desktop, or in your Applications folder. Double clicking on this should bring up an interface with several options:
 
-    ![launcher](http://fonnesbeck-dropshare.s3.amazonaws.com/Screen-Shot-2015-03-18-12-17-58.png)
+    ![Anaconda launcher](http://fonnesbeck-dropshare.s3.amazonaws.com/Screen-Shot-2015-03-18-12-17-58.png)
 
     Select the IPython Notebook, which should open your default browser, and show a list of files within the IPython Notebook interface. Then you should be able to double-click on the `Markov Decision Processes and Dynamic Optimization.ipynb` file to open the tutorial.
+    
+![IPython Notebook](http://fonnesbeck-dropshare.s3.amazonaws.com/Screen-Shot-2015-03-18-12-22-34.png)
