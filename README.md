@@ -22,7 +22,7 @@ Once Anaconda is installed, there are a few steps required to install the packag
 
 ### Step 3: Acquire course materials
     
-When these have been installed, the next step is to download the tutorial materials. For those of you familiar with Git, you can simply clone the [GitHub repository](https://github.com/fonnesbeck/NCTC_course) to your machine. If you are unfamiliar with Git, you may download a [zip archive](https://github.com/fonnesbeck/NCTC_course/archive/master.zip) to your machine as well, and extract the files therein to a location of your choice.
+When these have been installed, the next step is to download the tutorial materials. For those of you familiar with Git, you can simply clone the [GitHub repository](https://github.com/fonnesbeck/NCTC_course) to your machine. If you are unfamiliar with Git, you may download a [zip archive](https://github.com/fonnesbeck/NCTC_course/archive/master.zip) to your machine instead, and extract the files therein to a location of your choice.
 
 ### Step 4: Run IPython Notebook
 
