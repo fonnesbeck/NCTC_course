@@ -15,7 +15,7 @@ The easiest way to install the Python packages required for this tutorial is via
 Once Anaconda is installed, there are a few steps required to install the packages that the tutorial uses. From your command line terminal, enter the following commands:
 
     conda update ipython ipython-notebook pandas pip
-    pip install pymdptoolbox
+    pip install pymdptoolbox filterpy
 
 ### Step 3: Acquire course materials
     
