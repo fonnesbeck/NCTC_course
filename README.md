@@ -6,7 +6,11 @@ A static HTML version of this tutorial can be viewed [here](http://bit.ly/nctc_m
 
 ## Installing Python and Required Packages
 
+### Step 1: Install Python (Anaconda)
+
 The easiest way to install the Python packages required for this tutorial is via [Anaconda](http://continuum.io/downloads), a scientific Python distribution offered by Continuum analytics. 
+
+### Step 2: Update packages
 
 Once Anaconda is installed, there are a few steps required to install the packages that the tutorial uses. From your command line terminal, enter the following commands:
 
@@ -16,8 +20,11 @@ Once Anaconda is installed, there are a few steps required to install the packag
     conda update pip
     pip install pymdptoolbox
 
+### Step 3: Acquire course materials
     
 When these have been installed, the next step is to download the tutorial materials. For those of you familiar with Git, you can simply clone the [GitHub repository](https://github.com/fonnesbeck/NCTC_course) to your machine. If you are unfamiliar with Git, you may download a [zip archive](https://github.com/fonnesbeck/NCTC_course/archive/master.zip) to your machine as well, and extract the files therein to a location of your choice.
+
+### Step 4: Run IPython Notebook
 
 The tutorial is contained in an IPython Notebook, an interactive interface for running code alongside the notes for the tutorial. IPython Notebooks are identified by a `.ipynb` extension on the file. There are two ways of starting up the notebook:
 
