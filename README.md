@@ -8,7 +8,7 @@ A static HTML version of this tutorial can be viewed [here](http://bit.ly/nctc_m
 
 ### Step 1: Install Python (Anaconda)
 
-The easiest way to install the Python packages required for this tutorial is via [Anaconda](http://continuum.io/downloads), a scientific Python distribution offered by Continuum analytics. 
+The easiest way to install the Python packages required for this tutorial is via [Anaconda](https://store.continuum.io/cshop/anaconda/), a scientific Python distribution offered by Continuum analytics. [Download Anaconda](http://continuum.io/downloads "Download Anaconda Python Distribution"), and run the installer.
 
 ### Step 2: Update packages
 
